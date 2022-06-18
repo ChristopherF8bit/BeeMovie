@@ -1,9 +1,6 @@
 import pyautogui
 import time
 
-input('')
-
-
 try:
     while True:
         x, y = pyautogui.position()
