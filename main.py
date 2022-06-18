@@ -1,5 +1,3 @@
-from cmath import exp
-from re import L
 import pyautogui
 import time
 
